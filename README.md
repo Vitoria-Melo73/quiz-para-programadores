@@ -1,16 +1,16 @@
-# Quiz Interativo para Programadores 💻
+# Quiz Interativo para Programadores 
 
 Projeto desenvolvido para fins de estudo, utilizando HTML, CSS e JavaScript.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 - Quiz com diferentes tipos de perguntas
 - Tema claro e escuro
 - Interface simples e intuitiva
 
-## 🛠️ Tecnologias
+##  Tecnologias
 - HTML5
 - CSS3
 - JavaScript
 
-## 🎯 Objetivo
+##  Objetivo
 Projeto criado para praticar conceitos básicos de desenvolvimento web e compor portfólio no GitHub.
